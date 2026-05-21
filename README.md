@@ -46,6 +46,9 @@ This project analyzes personal lifestyle and financial data using **Python** and
 * Dashboard Filters
 
 ---
+# Power BI Dashborad preview
+
+<img width="1322" height="746" alt="EDA_Dashborad" src="https://github.com/user-attachments/assets/06c321a2-2847-4301-82d5-f88dc4d22d13" />
 
 ## Key Skills
 
